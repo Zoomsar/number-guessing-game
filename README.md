@@ -67,3 +67,4 @@ number-guessing-game/
 │   └── Difficulty.java    # Difficulty level enum
 └── README.md             # This file
 ```
+Add a discussion panel to leave feedback thank you :)
